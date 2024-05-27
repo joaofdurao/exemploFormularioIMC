@@ -1,0 +1,9 @@
+br\com\exemploFormulario\views\UsuarioForm$CalcularIMCActionListener.class
+br\com\exemploFormulario\App.class
+br\com\exemploFormulario\views\UsuarioForm.class
+br\com\exemploFormulario\repositories\InstanceDAO.class
+br\com\exemploFormulario\repositories\UsuarioDAO.class
+br\com\exemploFormulario\controllers\UsuarioController.class
+br\com\exemploFormulario\utils\JPAUtils.class
+br\com\exemploFormulario\models\Usuario.class
+br\com\exemploFormulario\utils\IMCUtils.class
